@@ -1,5 +1,6 @@
-# Bỏ qua thư mục môi trường ảo Python
+data/
+pic/
+tensorboard/*
+trained_models/*
 venv/
-
-# Bỏ qua file cache của Python
 __pycache__/
