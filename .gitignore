@@ -4,3 +4,4 @@ tensorboard/*
 trained_models/*
 venv/
 __pycache__/
+.gitignore 
